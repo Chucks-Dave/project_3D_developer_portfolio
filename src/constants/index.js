@@ -220,7 +220,7 @@ const projects = [
   {
     name: "WIZE BOOK",
     description:
-      "Imagine a business grappling with inefficiencies in tracking inventory. That’s where Smart Business Manager, also known as Wizebook, steps in. As the lead project manager, I spearheaded a comprehensive transformation of the software, improving its adaptability and user experience. Through close collaboration with developers, we created a reliable solution that simplified operations for numerous businesses. The result? Exceptional feedback and a significantly optimized inventory system.",
+      "Imagine a business grappling with inefficiencies in tracking inventory. That’s where Smart Business Manager, also known as Wizebook, steps in. As the lead project/product manager, I spearheaded a comprehensive transformation of the software, improving its adaptability and user experience. Through close collaboration with developers, we created a reliable solution that simplified operations for numerous businesses. The result? Exceptional feedback and a significantly optimized inventory system.",
     tags: [
       {
         name: "Project Manager",
