@@ -131,7 +131,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "IT Project Manager | Agile Strategist",
+    title: "IT Project/product Manager | Agile Strategist",
     company_name: "Rayzer Business and Technologies | Remote",
     icon: web,
     iconBg: "#E6DEDD",
