@@ -161,7 +161,7 @@ const experiences = [
     ],
   },
   {
-    title: "Project Manager",
+    title: "Project Manager | agile strategist",
     company_name: "Bible Brains | Contract",
     icon: web,
     iconBg: "#383E56",
