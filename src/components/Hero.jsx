@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
 
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            An IT project manager / product manager
+            An IT project manager| product manager
             <br className="sm:block hidden" />
             and an agile strategist
           </p>

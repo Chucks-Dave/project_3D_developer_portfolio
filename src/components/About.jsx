@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        As an IT Project Manager and Agile Strategist, I lead cross-functional
+        As an IT Project/product Manager and Agile Strategist, I lead cross-functional
         teams to deliver innovative software and digital transformation
         projects. With expertise in Agile methodologies, Scrum frameworks, and
         stakeholder management, I drive end-to-end software development
