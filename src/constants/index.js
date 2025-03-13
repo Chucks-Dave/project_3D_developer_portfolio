@@ -206,14 +206,14 @@ const testimonials = [
     company: "Founder at TPELI Institute & Hope Foundation",
     image: dami,
   },
-  // {
-  //   testimonial:
-  //     "A very dedicated and hardworking individual, she has a strong attention to detail ,also a strong problem solving skill and people oriented.",
-  //   name: "Okechukwu David",
-  //   designation: "Software Developer",
-  //   company: "Rayzer Business Technologies",
-  //   image: OKEY,
-  // },
+  {
+    testimonial:
+      "A very dedicated and hardworking individual, she has a strong attention to detail ,also a strong problem solving skill and people oriented.",
+    name: "Okechukwu David",
+    designation: "Software Developer",
+    company: "Rayzer Business Technologies",
+    image: OKEY,
+  },
 ];
 
 const projects = [

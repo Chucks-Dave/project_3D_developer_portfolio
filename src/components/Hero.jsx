@@ -26,13 +26,12 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <div className="relative left-24 overflow-x-hidden">
-        <img
-          src="/hmmmm.jpg"
-          alt="logo"
-          className="w-64 max-md:h-64 rounded-full object-contain  flex justify-center items-center max-md:left-5 absolute left-0 right-0 lg:top-[350px] bottom-0"
-        />
-      </div>
+
+      <img
+        src="/hmmmm.jpg"
+        alt="logo"
+        className="w-64 max-md:h-64 rounded-full object-contain  flex justify-center items-center max-md:left-5 absolute left-0 right-0 lg:top-[350px] bottom-0"
+      />
 
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
