@@ -198,14 +198,14 @@ const testimonials = [
     company: "Rayzer Business and Technologies",
     image: Emeka,
   },
-  {
-    testimonial:
-      "Omoye Iyoha is an exemplary professional whose character and expertise as an IT Project Manager stands out.In the time I’ve known Omoye, she has demonstrated a remarkable ability to lead projects with integrity, ensuring that tasks are not only completed efficiently but also with a high standard of quality. She has a calm demeanor.Beyond their technical expertise, Omoye brings exceptional communication and team-building skills, fostering collaboration and motivating their teams to achieve outstanding results. Her dedication to continuous improvement and their honest, people-centered approach make them a great asset to any organization.",
-    name: "Damilola Olufemi ",
-    designation: "CE0, Lawyer & Thought Leader",
-    company: "Founder at TPELI Institute & Hope Foundation",
-    image: dami,
-  },
+  // {
+  //   testimonial:
+  //     "Omoye Iyoha is an exemplary professional whose character and expertise as an IT Project Manager stands out.In the time I’ve known Omoye, she has demonstrated a remarkable ability to lead projects with integrity, ensuring that tasks are not only completed efficiently but also with a high standard of quality. She has a calm demeanor.Beyond their technical expertise, Omoye brings exceptional communication and team-building skills, fostering collaboration and motivating their teams to achieve outstanding results. Her dedication to continuous improvement and their honest, people-centered approach make them a great asset to any organization.",
+  //   name: "Damilola Olufemi ",
+  //   designation: "CE0, Lawyer & Thought Leader",
+  //   company: "Founder at TPELI Institute & Hope Foundation",
+  //   image: dami,
+  // },
   {
     testimonial:
       "A very dedicated and hardworking individual, she has a strong attention to detail ,also a strong problem solving skill and people oriented.",
